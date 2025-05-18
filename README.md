@@ -20,12 +20,12 @@
 
 - 📫 How to reach me:
   - 📧 sayangayen4976@gmail.com
-  - 🌐 [Portfolio Website](https://nebitzsayan.github.io/sayangayan)
+  - 🌐 [Portfolio Website](https://sayangayen.netlify.app/)
   - 💼 [LinkedIn](https://www.linkedin.com/in/sayan-gayen-9448a7335)
   - 🐙 [GitHub](https://github.com/nebitzsayan)
   - 🐦 [Twitter (X)](https://x.com/technefied)
   - 📸 [Instagram](https://www.instagram.com/aakashbusted.js)
-  - 👽 [Reddit](https://www.reddit.com/u/Affectionate_Name_81)
+  - 🌐 [NeBitz Technology](https://nebitztechnology.netlify.app/)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a CEO of NeBitz Technology and a civil engineer who builds futuristic digital products, contributes to Android ROM communities, and designs full-stack solutions to real-world problems — all before coffee.
