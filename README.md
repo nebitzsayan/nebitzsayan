@@ -28,7 +28,7 @@
   - 👽 [Reddit](https://www.reddit.com/u/Affectionate_Name_81)
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a civil engineer who builds futuristic digital products, contributes to Android ROM communities, and designs full-stack solutions to real-world problems — all before coffee.
+- ⚡ Fun fact: I'm a CEO of NeBitz Technology and a civil engineer who builds futuristic digital products, contributes to Android ROM communities, and designs full-stack solutions to real-world problems — all before coffee.
 
 ---
 
